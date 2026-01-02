@@ -15,6 +15,22 @@ This repository documents my focus on building solid, maintainable, and producti
 - Performance, scalability, and real-world constraints
 - Clean architecture and refactoring
 
+## 🧭 Scope & Direction
+
+My focus is not on being “full-stack” by title,  
+but on understanding and owning the system end to end.
+
+- Frontend is my strength and primary interface to users
+- Backend is a responsibility, not a black box
+- I aim to design clear boundaries between client, server, and data
+
+### Tech Scope 2026
+- Frontend: React, Next.js
+- Backend: Node.js, REST APIs
+- Data: relational DB fundamentals
+- Auth & security basics
+- Deployment awareness
+
 ## 🧠 Philosophy
 Fast is good. Solid is better.
 
