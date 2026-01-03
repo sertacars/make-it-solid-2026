@@ -34,5 +34,8 @@ but on understanding and owning the system end to end.
 ## 🧠 Philosophy
 Fast is good. Solid is better.
 
+## 📐 System Thinking
+Scenarios in this repository describe system design decisions before implementation.
+
 ---
 Started on: **January 1, 2026**
